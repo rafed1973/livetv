@@ -1,0 +1,47 @@
+{
+    "channels" : [
+        {
+            "id": 1,
+            "name" : "العربية",
+            "youtubeId": "gq3nmkm2GN8",
+            "searchTerm": "العربية البث الحي المباشر"
+        },
+        {
+            "id": 2,
+            "name" : "الجزيرة",
+            "youtubeId": "EeCn9FN94RU",
+            "searchTerm": "الجزيرة البث الحي"
+        },
+        {
+            "id": 3,
+            "name" : "الشرق",
+            "youtubeId": "3-w4NKvDp9A",
+            "searchTerm": "تلفزيون الشرق مباشر"
+        },
+        {
+            "id": 4,
+            "name" : "الشرق",
+            "youtubeId": "3-w4NKvDp9A",
+            "searchTerm": "تلفزيون الشرق مباشر"
+        },
+        {
+            "id": 5,
+            "name" : "الشرق",
+            "youtubeId": "3-w4NKvDp9A",
+            "searchTerm": "تلفزيون الشرق مباشر"
+        },
+        {
+            "id": 6,
+            "name" : "الشرق",
+            "youtubeId": "3-w4NKvDp9A",
+            "searchTerm": "تلفزيون الشرق مباشر"
+        },
+        {
+            "id": 7,
+            "name" : "الشرق",
+            "youtubeId": "3-w4NKvDp9A",
+            "searchTerm": "تلفزيون الشرق مباشر"
+        }
+
+    ]
+}
