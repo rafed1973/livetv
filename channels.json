@@ -26,22 +26,15 @@
         },
         {
             "id": 5,
-            "name" : "الشرق",
-            "youtubeId": "3-w4NKvDp9A",
-            "searchTerm": "تلفزيون الشرق مباشر"
+            "name" : "beIN الإخبارية",
+            "youtubeId": "A1uuJRrPfok",
+            "searchTerm": " بث مباشر beIN SPORTS News"
         },
         {
             "id": 6,
-            "name" : "الشرق",
-            "youtubeId": "3-w4NKvDp9A",
-            "searchTerm": "تلفزيون الشرق مباشر"
-        },
-        {
-            "id": 7,
-            "name" : "الشرق",
-            "youtubeId": "3-w4NKvDp9A",
-            "searchTerm": "تلفزيون الشرق مباشر"
+            "name" : "سكاي نيوز",
+            "youtubeId": "2gVOPpiiL3A",
+            "searchTerm": "سكاي نيوز عربية بث مباشر"
         }
-
     ]
 }
