@@ -35,9 +35,10 @@ const getChannelsList = async () => {
 
 const switchChannel = e => {
   e.preventDefault();
-  if (e.target.classList.contains('card'));
+  if (e.target.classList.contains('card')){
     console.log(e.target.id);
     player.loadVideoById(e.target.id, 5, "large");
+  }
 }
 
 channelList.addEventListener('click', switchChannel);
