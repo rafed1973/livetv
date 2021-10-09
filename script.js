@@ -9,7 +9,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 var player;
 function onYouTubePlayerAPIReady() {
     player = new YT.Player('ytplayer', {
-      //height: '360',
+      height: '100%',
       width: '100%'//,
       //videoId: 'M7lc1UVf-VE'
   });
